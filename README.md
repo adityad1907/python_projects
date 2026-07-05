@@ -9,21 +9,38 @@ Instead of only focusing on theoretical concepts, I strongly believe that progra
 The repository contains beginner-friendly projects covering topics such as:
 
 Variables and Data Types
+
 Conditional Statements
+
 Loops
+
 Functions
+
 Strings
+
 Lists
+
 Tuples
+
 Dictionaries
+
 Sets
+
 File Handling
+
 Exception Handling
+
 Modules
+
 Object-Oriented Programming (OOP)
+
 Random Module
+
 Simple Games
+
 Pattern Printing
+
 Basic Algorithms
+
 And many more as I continue learning.
 
